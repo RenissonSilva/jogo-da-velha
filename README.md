@@ -18,6 +18,10 @@ E acessar no seu navegador o endereço
 http://localhost:3000/
 ```
 
+### Integrantes com maior participação
+Renisson Silva
+
+Tavares Enok
 
 ### Trabalho referente as matérias
 
